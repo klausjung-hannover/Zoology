@@ -5,7 +5,7 @@ For further interactive teaching, different explanations that clarify the shift 
 
 ### Installation
 
-Copy all folders and files in one folder named "Zoology" on your desktop PC or server.
+Copy all folders (tabellen and www) and files (server.R and ui.R) in one folder named "Zoology" on your desktop PC or server.
 Make sure that the R-package Shiny and further R-packages are installed:
 ```r
 install.packages(stringi)
